@@ -13,7 +13,7 @@ TABLE_TO_USE = 'Лист1'
 TABLE_RANGE = 'B2:B4'
 EVENT_NUMBER =	24835
 where link is https://pandas.bmstu.net/event/view/24832/
-EMAIL = 'tsar.matwey@mail.ru'
+EMAIL = 'email.email@email.email'
 PASSWORD = '*******'
 
 
