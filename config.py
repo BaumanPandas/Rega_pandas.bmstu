@@ -1,9 +1,9 @@
-TABLE_KEY = ''	#put key from link-table
-TABLE_TO_USE = ''	#put name of the table
-TABLE_RANGE = ''	#put number of column with names in table
-EVENT_NUMBER =  	#put number from the event url on pandas.bmstu.net
-EMAIL = ''	#put your email on pandas.bmstu.net
-PASSWORD = ''	#put your password on pandas.bmstu.net
+TABLE_KEY = '1m2L1YajC7xLx_Cxk8QjTxdYjrc-vRDqMfmsRKTJjRso'	#put key from link-table
+TABLE_TO_USE = 'Настольный теннис (М)'	#put name of the table
+TABLE_RANGE = 'B2:B38'	#put number of column with names in table
+EVENT_NUMBER =  27365	#put number from the event url on pandas.bmstu.net
+EMAIL = 'tsar.matwey@mail.ru'	#put your email on pandas.bmstu.net
+PASSWORD = '41b6c06'	#put your password on pandas.bmstu.net
 
 '''
 example

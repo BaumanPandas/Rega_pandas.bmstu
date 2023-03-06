@@ -100,6 +100,8 @@ def get_person_id(session, sec_ls_key, person_name, log = False):
 	
 	if len_persons == 1:
 		person_id = persons[0]['id']
+		print("ok", person_name)
+		f.write(person_name+'ok'+'\n')
 	elif len_persons > 1:
 		print("---More than one---", person_name)
 		f.write(person_name+'\n')
